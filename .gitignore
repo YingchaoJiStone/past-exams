@@ -1,2 +1,6 @@
 *.DS_Store
 *.env
+*_site/
+*.log
+package-lock.json
+node_modules
